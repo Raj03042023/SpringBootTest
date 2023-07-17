@@ -12,12 +12,12 @@ Assumptions
 - Cucumber plugin integrated with Intellij Idea
 
 Installation
-- Clone the Repo
-- Import the project into IntelliJ Idea
+- Clone the Repo "https://github.com/Raj03042023/SpringBootTest"
+- Open the Folder in IntelliJ Idea as a Project (pom.xml)
 - Open the Terminal, from the 'SpringBootTest' folder enter 'mvn clean install test' followed by Return Key
 
 Execution
-- Now Open the Feature File and run the feature as shown in the picture "Running Tests from Cucumber Feature.png"
+- Now Open the Feature File "GitHubAPITests.feature" in path "SpringBootTest/src/test/resources" and run the feature as shown in the picture "Running Tests from Cucumber Feature.png"
 - Results will appear as per picture "Execution Results.png"
 
 
