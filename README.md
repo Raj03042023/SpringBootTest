@@ -14,6 +14,7 @@ Assumptions
 Installation
 - Clone the Repo "https://github.com/Raj03042023/SpringBootTest"
 - Open the Folder in IntelliJ Idea as a Project (pom.xml)
+- Update the GitHub Bearer Token in "src\main\resources\application.properties" path with the supplied new key in the email
 - Open the Terminal, from the 'SpringBootTest' folder enter 'mvn clean install test' followed by Return Key
 
 Execution
